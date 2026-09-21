@@ -1,2 +1,6 @@
 gpt-2.5-image 提示词
 生成一张构图和色彩非常干净的电脑壁纸，电脑壁纸的主要角色是动画《哆啦A梦》的主要角色们。large simple color masses, low visual frequency, restrained edge density, clear edge hierarchy, minimal internal contour lines, broad shadow shapes, suppress micro-texture and micro-contrast, no unnecessary specular highlights
+
+
+文章封面
+基于最近的Zcode静默上传用户数据问题，我写一篇文章，你生成一个图片做文章的封面，要求引人注目，且和该话题相关。我给的图片作为 生成图片重点人物参考，你可以使用该人像去构图，不必完全复用原人像，包括衣服
