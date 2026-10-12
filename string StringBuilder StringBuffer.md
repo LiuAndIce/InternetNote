@@ -2,7 +2,7 @@
 
 # string StringBuilder StringBuffer
 
-![image-20251114133254720](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20251114133254720.png)
+![image-20251114133254720](assets/images/image-20251114133254720-73710f3acaed.png)
 
 # B树与B+树区别
 
@@ -14,4 +14,4 @@
 
 扇出数据
 
-![image-20251114134954229](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20251114134954229.png)
+![image-20251114134954229](assets/images/image-20251114134954229-a49f6cc1514d.png)

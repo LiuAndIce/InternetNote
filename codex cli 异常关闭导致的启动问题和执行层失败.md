@@ -18,13 +18,13 @@ To work without the background server, rerun the same command with --no-daemon (
 
 这里我选择了删除 codex cli 安装新版本 (文件和配置 都还在)
 
-![image-20261012204808243](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20261012204808243.png)
+![image-20261012204808243](assets/images/image-20261012204808243-c02c5194a798.png)
 
 # 错误分析二
 
 但是安装了v0.162.0版本后   虽然可以进行正常的启动了  但是还是出现下执行层面的问题如下图
 
-![fab6a850-7526-48e9-989d-91b6affd4c12](E:\app\wechatfileSave\xwechat_files\wxid_7ricenax6u7y22_8403\temp\InputTemp\fab6a850-7526-48e9-989d-91b6affd4c12.png)
+![fab6a850-7526-48e9-989d-91b6affd4c12](assets/images/fab6a850-7526-48e9-989d-91b6affd4c12-9842401fdd6b.png)
 
 ![以灯箱形式呈现的所选图片。](blob:https://gemini.google.com/07c382c3-0787-4b42-a5b4-a38fc8b39e84)
 
@@ -42,7 +42,7 @@ Failed to create unified exec process: helper_unknown_error: setup refresh had e
 
 删除本地环境下面codex 运行时的所有文件 如下图 bin   和 runtimes
 
-![image-20261011175006455](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20261011175006455.png)
+![image-20261011175006455](assets/images/image-20261011175006455-6f8847663831.png)
 
 删除之后 ，关闭 所有codex  终端 进行一场初始化（正常codex启动即可） 
 

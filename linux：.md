@@ -114,11 +114,11 @@ tcpdump -nn -i eth0 port 80
 -i eth0 的含义是：指定要监听的网络接口为 eth0（这是 Linux 系统中常见的网卡名称）。
 简单说，-i 是 tcpdump 的参数，用于选择 “从哪个网卡抓包”；eth0 是具体的网卡名称，代表要抓取该网卡上的网络流量。
 
-![](C:/Users/Mr.liu/AppData/Roaming/Typora/typora-user-images/image-20251216134913901.png)
+![](assets/images/image-20251216134913901-664f122c2cee.png)
 
 ## **TCP三次握手四次挥手**
 
-![image-20260309221112522](C:/Users/Mr.liu/AppData/Roaming/Typora/typora-user-images/image-20260309221112522.png)
+![image-20260309221112522](assets/images/image-20260309221112522-60eb203b86c3.png)
 
 
 

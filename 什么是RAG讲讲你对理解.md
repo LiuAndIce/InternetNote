@@ -30,7 +30,7 @@ function call 工具调用是agent范式的核心组件，agent范式是包含fu
 
 **function call 核心逻辑：**用户提问 → LLM 判断 “需要调用工具” → 输出结构化指令（如 JSON） → 执行外部函数 → 把结果返回给 LLM → LLM 生成最终回答。
 
-**agent范式核心：**![image-20260310152854650](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260310152854650.png)
+**agent范式核心：**![image-20260310152854650](assets/images/image-20260310152854650-debeb43e14cd.png)
 
 
 
@@ -48,7 +48,7 @@ Hello-Agents 的 RAG 并非孤立的检索模块，而是完全嵌入智能体�
 
 
 
-![image-20260330125705779](C:/Users/Mr.liu/AppData/Roaming/Typora/typora-user-images/image-20260330125705779.png)
+![image-20260330125705779](assets/images/image-20260330125705779-858a301bf4f9.png)
 
 **混合检索工程落地：**
 

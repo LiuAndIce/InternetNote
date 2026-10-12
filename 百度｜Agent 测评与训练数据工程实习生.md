@@ -1,8 +1,8 @@
 百度｜Agent 测评与训练数据工程实习生
 
-![image-20260929204617308](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260929204617308.png)
+![image-20260929204617308](assets/images/image-20260929204617308-a6b5f8634f8a.png)
 
-![image-20260929204637102](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260929204637102.png)
+![image-20260929204637102](assets/images/image-20260929204637102-2e439a05181f.png)
 
 介绍：这份实习做的是coding Agent 测评和训练数据建设，对百度文心快码Agent工具做多模型Agent 的执行】观测、测评和数据闭环，帮助团队持续提升Coding Agent 的代码解决能力。其实简单来说就是给文心一言大模型的harness 框架做适配，让其在不同模型、prompt 下完成更好的编码体验。
 

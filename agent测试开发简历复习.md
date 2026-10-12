@@ -14,7 +14,7 @@ set,是包含字符串的无序集合，常用于做交并集，应用场景有 
 
 zset和散列一样都是键值对，但这个可以为每个键值对指定score作为排序排序依据，常常用于排行榜，
 
-![image-20260512142514418](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260512142514418.png)
+![image-20260512142514418](assets/images/image-20260512142514418-769d57212b7c.png)
 
  还**有之后更新的** 
 
@@ -50,15 +50,15 @@ stream，改进的list，用于消息队列
 
 # 数据结构
 
-![image-20260512180412357](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260512180412357.png)
+![image-20260512180412357](assets/images/image-20260512180412357-806131bf7982.png)
 
 常见的有intset ,dict字典，ziplist压缩列表，skiplist跳表，以及quicklist
 
 ## ziplist,压缩列表
 
-![image-20260512181125803](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260512181125803.png)
+![image-20260512181125803](assets/images/image-20260512181125803-7953a0e13aff.png)
 
-![image-20260512181301873](C:\Users\Mr.liu\AppData\Roaming\Typora\typora-user-images\image-20260512181301873.png)
+![image-20260512181301873](assets/images/image-20260512181301873-58cc44ee1ac7.png)
 
 特点：
 
